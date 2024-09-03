@@ -1,0 +1,25 @@
+{
+  "language": "Ukrainian",
+  "units": [
+    {
+      "word": "хлопчик",
+      "type": "noun"
+    },
+    {
+      "word": "покласти",
+      "type": "verb"
+    },
+    {
+      "word": "кавун",
+      "type": "noun"
+    },
+    {
+      "word": "на",
+      "type": "preposition"
+    },
+    {
+      "word": "стіл",
+      "type": "noun"
+    }
+  ]
+}

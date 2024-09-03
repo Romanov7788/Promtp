@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "units": [
+        {
+          "mainKnowledge": "хлопчик",
+          "knowledges": [
+            "хлопчик"
+          ],
+          "text": "хлопчик",
+          "group": "people"
+        }
+      ]
+    },
+    {
+      "units": [
+        {
+          "mainKnowledge": "кавун",
+          "knowledges": [
+            "кавун"
+          ],
+          "text": "кавун",
+          "group": "fruits"
+        }
+      ]
+    },
+    {
+      "units": [
+        {
+          "mainKnowledge": "стіл",
+          "knowledges": [
+            "стіл"
+          ],
+          "text": "стіл",
+          "group": "furniture"
+        }
+      ]
+    },
+    {
+      "units": [
+        {
+          "mainKnowledge": "покласти",
+          "knowledges": [
+            "покласти",
+            "книга"
+          ],
+          "text": "покласти книгу",
+          "group": "покласти-взяти"
+        },
+        {
+          "mainKnowledge": "взяти",
+          "knowledges": [
+            "взяти",
+            "книга"
+          ],
+          "text": "взяти книгу",
+          "group": "покласти-взяти"
+        },
+        {
+          "mainKnowledge": "покласти",
+          "knowledges": [
+            "покласти",
+            "ручка"
+          ],
+          "text": "покласти ручку",
+          "group": "покласти-взяти"
+        },
+        {
+          "mainKnowledge": "взяти",
+          "knowledges": [
+            "взяти",
+            "ручка"
+          ],
+          "text": "взяти ручку",
+          "group": "покласти-взяти"
+        }
+      ]
+    },
+    {
+      "units": [
+        {
+          "mainKnowledge": "на",
+          "knowledges": [
+            "на",
+            "стіл",
+            "кавун"
+          ],
+          "text": "кавун на столі",
+          "group": "на"
+        },
+        {
+          "mainKnowledge": "на",
+          "knowledges": [
+            "на",
+            "стіл",
+            "хлопчик"
+          ],
+          "text": "хлопчик на столі",
+          "group": "на"
+        },
+        {
+          "mainKnowledge": "на",
+          "knowledges": [
+            "на",
+            "стіл",
+            "книга"
+          ],
+          "text": "книга на столі",
+          "group": "на"
+        }
+      ]
+    }
+  ]
+}
