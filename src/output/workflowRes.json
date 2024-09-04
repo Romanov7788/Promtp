@@ -1,0 +1,3306 @@
+{
+  "wordSequenceTypes": [
+    "Sequence of words by the sequence of learning in the process of human development early communication and pronunciation development in children under 3 years old"
+  ],
+  "spezialists": [
+    "expert in early childhood development",
+    "early education expert"
+  ],
+  "groupCreteria": [
+    "good to learn together",
+    "one type of word"
+  ],
+  "wordSequences": [
+    {
+      "data": [
+        {
+          "place": 1,
+          "word": "мама",
+          "type": "noun"
+        },
+        {
+          "place": 2,
+          "word": "тато",
+          "type": "noun"
+        },
+        {
+          "place": 3,
+          "word": "баба",
+          "type": "noun"
+        },
+        {
+          "place": 4,
+          "word": "дід",
+          "type": "noun"
+        },
+        {
+          "place": 5,
+          "word": "я",
+          "type": "pronoun"
+        },
+        {
+          "place": 6,
+          "word": "ти",
+          "type": "pronoun"
+        },
+        {
+          "place": 7,
+          "word": "він",
+          "type": "pronoun"
+        },
+        {
+          "place": 8,
+          "word": "вона",
+          "type": "pronoun"
+        },
+        {
+          "place": 9,
+          "word": "ми",
+          "type": "pronoun"
+        },
+        {
+          "place": 10,
+          "word": "вони",
+          "type": "pronoun"
+        },
+        {
+          "place": 11,
+          "word": "їсти",
+          "type": "verb"
+        },
+        {
+          "place": 12,
+          "word": "пити",
+          "type": "verb"
+        },
+        {
+          "place": 13,
+          "word": "спати",
+          "type": "verb"
+        },
+        {
+          "place": 14,
+          "word": "йти",
+          "type": "verb"
+        },
+        {
+          "place": 15,
+          "word": "бігти",
+          "type": "verb"
+        },
+        {
+          "place": 16,
+          "word": "грати",
+          "type": "verb"
+        },
+        {
+          "place": 17,
+          "word": "читати",
+          "type": "verb"
+        },
+        {
+          "place": 18,
+          "word": "писати",
+          "type": "verb"
+        },
+        {
+          "place": 19,
+          "word": "малювати",
+          "type": "verb"
+        },
+        {
+          "place": 20,
+          "word": "співати",
+          "type": "verb"
+        },
+        {
+          "place": 21,
+          "word": "танцювати",
+          "type": "verb"
+        },
+        {
+          "place": 22,
+          "word": "дивитися",
+          "type": "verb"
+        },
+        {
+          "place": 23,
+          "word": "слухати",
+          "type": "verb"
+        },
+        {
+          "place": 24,
+          "word": "казати",
+          "type": "verb"
+        },
+        {
+          "place": 25,
+          "word": "любити",
+          "type": "verb"
+        },
+        {
+          "place": 26,
+          "word": "бачити",
+          "type": "verb"
+        },
+        {
+          "place": 27,
+          "word": "чути",
+          "type": "verb"
+        },
+        {
+          "place": 28,
+          "word": "відчувати",
+          "type": "verb"
+        },
+        {
+          "place": 29,
+          "word": "давати",
+          "type": "verb"
+        },
+        {
+          "place": 30,
+          "word": "брати",
+          "type": "verb"
+        },
+        {
+          "place": 31,
+          "word": "мати",
+          "type": "verb"
+        },
+        {
+          "place": 32,
+          "word": "робити",
+          "type": "verb"
+        },
+        {
+          "place": 33,
+          "word": "знати",
+          "type": "verb"
+        },
+        {
+          "place": 34,
+          "word": "розуміти",
+          "type": "verb"
+        },
+        {
+          "place": 35,
+          "word": "питати",
+          "type": "verb"
+        },
+        {
+          "place": 36,
+          "word": "відповідати",
+          "type": "verb"
+        },
+        {
+          "place": 37,
+          "word": "допомагати",
+          "type": "verb"
+        },
+        {
+          "place": 38,
+          "word": "працювати",
+          "type": "verb"
+        },
+        {
+          "place": 39,
+          "word": "гратися",
+          "type": "verb"
+        },
+        {
+          "place": 40,
+          "word": "бігати",
+          "type": "verb"
+        },
+        {
+          "place": 41,
+          "word": "стрибати",
+          "type": "verb"
+        },
+        {
+          "place": 42,
+          "word": "плавати",
+          "type": "verb"
+        },
+        {
+          "place": 43,
+          "word": "літати",
+          "type": "verb"
+        },
+        {
+          "place": 44,
+          "word": "їхати",
+          "type": "verb"
+        },
+        {
+          "place": 45,
+          "word": "ходити",
+          "type": "verb"
+        },
+        {
+          "place": 46,
+          "word": "сидіти",
+          "type": "verb"
+        },
+        {
+          "place": 47,
+          "word": "стояти",
+          "type": "verb"
+        },
+        {
+          "place": 48,
+          "word": "лежати",
+          "type": "verb"
+        },
+        {
+          "place": 49,
+          "word": "плакати",
+          "type": "verb"
+        },
+        {
+          "place": 50,
+          "word": "сміятися",
+          "type": "verb"
+        },
+        {
+          "place": 51,
+          "word": "посміхатися",
+          "type": "verb"
+        },
+        {
+          "place": 52,
+          "word": "кричати",
+          "type": "verb"
+        },
+        {
+          "place": 53,
+          "word": "шепотіти",
+          "type": "verb"
+        },
+        {
+          "place": 54,
+          "word": "говорити",
+          "type": "verb"
+        },
+        {
+          "place": 55,
+          "word": "розмовляти",
+          "type": "verb"
+        },
+        {
+          "place": 56,
+          "word": "показувати",
+          "type": "verb"
+        },
+        {
+          "place": 57,
+          "word": "шукати",
+          "type": "verb"
+        },
+        {
+          "place": 58,
+          "word": "знаходити",
+          "type": "verb"
+        },
+        {
+          "place": 59,
+          "word": "відкривати",
+          "type": "verb"
+        },
+        {
+          "place": 60,
+          "word": "закривати",
+          "type": "verb"
+        },
+        {
+          "place": 61,
+          "word": "вмикати",
+          "type": "verb"
+        },
+        {
+          "place": 62,
+          "word": "вимикати",
+          "type": "verb"
+        },
+        {
+          "place": 63,
+          "word": "вчити",
+          "type": "verb"
+        },
+        {
+          "place": 64,
+          "word": "вчитися",
+          "type": "verb"
+        },
+        {
+          "place": 65,
+          "word": "гратися",
+          "type": "verb"
+        },
+        {
+          "place": 66,
+          "word": "дружити",
+          "type": "verb"
+        },
+        {
+          "place": 67,
+          "word": "прощати",
+          "type": "verb"
+        },
+        {
+          "place": 68,
+          "word": "прощатися",
+          "type": "verb"
+        },
+        {
+          "place": 69,
+          "word": "вітати",
+          "type": "verb"
+        },
+        {
+          "place": 70,
+          "word": "вітатися",
+          "type": "verb"
+        },
+        {
+          "place": 71,
+          "word": "дякувати",
+          "type": "verb"
+        },
+        {
+          "place": 72,
+          "word": "просити",
+          "type": "verb"
+        },
+        {
+          "place": 73,
+          "word": "дарувати",
+          "type": "verb"
+        },
+        {
+          "place": 74,
+          "word": "отримувати",
+          "type": "verb"
+        },
+        {
+          "place": 75,
+          "word": "подарунок",
+          "type": "noun"
+        },
+        {
+          "place": 76,
+          "word": "іграшка",
+          "type": "noun"
+        },
+        {
+          "place": 77,
+          "word": "м'яч",
+          "type": "noun"
+        },
+        {
+          "place": 78,
+          "word": "лялька",
+          "type": "noun"
+        },
+        {
+          "place": 79,
+          "word": "машина",
+          "type": "noun"
+        },
+        {
+          "place": 80,
+          "word": "книга",
+          "type": "noun"
+        },
+        {
+          "place": 81,
+          "word": "олівець",
+          "type": "noun"
+        },
+        {
+          "place": 82,
+          "word": "папір",
+          "type": "noun"
+        },
+        {
+          "place": 83,
+          "word": "фарби",
+          "type": "noun"
+        },
+        {
+          "place": 84,
+          "word": "пензлик",
+          "type": "noun"
+        },
+        {
+          "place": 85,
+          "word": "стіл",
+          "type": "noun"
+        },
+        {
+          "place": 86,
+          "word": "стілець",
+          "type": "noun"
+        },
+        {
+          "place": 87,
+          "word": "ліжко",
+          "type": "noun"
+        },
+        {
+          "place": 88,
+          "word": "шафа",
+          "type": "noun"
+        },
+        {
+          "place": 89,
+          "word": "двері",
+          "type": "noun"
+        },
+        {
+          "place": 90,
+          "word": "вікно",
+          "type": "noun"
+        },
+        {
+          "place": 91,
+          "word": "стіна",
+          "type": "noun"
+        },
+        {
+          "place": 92,
+          "word": "підлога",
+          "type": "noun"
+        },
+        {
+          "place": 93,
+          "word": "стеля",
+          "type": "noun"
+        },
+        {
+          "place": 94,
+          "word": "кімната",
+          "type": "noun"
+        },
+        {
+          "place": 95,
+          "word": "будинок",
+          "type": "noun"
+        },
+        {
+          "place": 96,
+          "word": "квартира",
+          "type": "noun"
+        },
+        {
+          "place": 97,
+          "word": "вулиця",
+          "type": "noun"
+        },
+        {
+          "place": 98,
+          "word": "місто",
+          "type": "noun"
+        },
+        {
+          "place": 99,
+          "word": "село",
+          "type": "noun"
+        },
+        {
+          "place": 100,
+          "word": "парк",
+          "type": "noun"
+        },
+        {
+          "place": 101,
+          "word": "ліс",
+          "type": "noun"
+        },
+        {
+          "place": 102,
+          "word": "річка",
+          "type": "noun"
+        },
+        {
+          "place": 103,
+          "word": "озеро",
+          "type": "noun"
+        },
+        {
+          "place": 104,
+          "word": "море",
+          "type": "noun"
+        },
+        {
+          "place": 105,
+          "word": "гора",
+          "type": "noun"
+        },
+        {
+          "place": 106,
+          "word": "сонце",
+          "type": "noun"
+        },
+        {
+          "place": 107,
+          "word": "місяць",
+          "type": "noun"
+        },
+        {
+          "place": 108,
+          "word": "зірка",
+          "type": "noun"
+        },
+        {
+          "place": 109,
+          "word": "небо",
+          "type": "noun"
+        },
+        {
+          "place": 110,
+          "word": "хмара",
+          "type": "noun"
+        },
+        {
+          "place": 111,
+          "word": "дощ",
+          "type": "noun"
+        },
+        {
+          "place": 112,
+          "word": "сніг",
+          "type": "noun"
+        },
+        {
+          "place": 113,
+          "word": "вітер",
+          "type": "noun"
+        },
+        {
+          "place": 114,
+          "word": "дерево",
+          "type": "noun"
+        },
+        {
+          "place": 115,
+          "word": "квітка",
+          "type": "noun"
+        },
+        {
+          "place": 116,
+          "word": "трава",
+          "type": "noun"
+        },
+        {
+          "place": 117,
+          "word": "листок",
+          "type": "noun"
+        },
+        {
+          "place": 118,
+          "word": "яблуко",
+          "type": "noun"
+        },
+        {
+          "place": 119,
+          "word": "груша",
+          "type": "noun"
+        },
+        {
+          "place": 120,
+          "word": "банан",
+          "type": "noun"
+        },
+        {
+          "place": 121,
+          "word": "апельсин",
+          "type": "noun"
+        },
+        {
+          "place": 122,
+          "word": "виноград",
+          "type": "noun"
+        },
+        {
+          "place": 123,
+          "word": "ягода",
+          "type": "noun"
+        },
+        {
+          "place": 124,
+          "word": "малина",
+          "type": "noun"
+        },
+        {
+          "place": 125,
+          "word": "полуниця",
+          "type": "noun"
+        },
+        {
+          "place": 126,
+          "word": "вишня",
+          "type": "noun"
+        },
+        {
+          "place": 127,
+          "word": "черешня",
+          "type": "noun"
+        },
+        {
+          "place": 128,
+          "word": "овоч",
+          "type": "noun"
+        },
+        {
+          "place": 129,
+          "word": "морква",
+          "type": "noun"
+        },
+        {
+          "place": 130,
+          "word": "буряк",
+          "type": "noun"
+        },
+        {
+          "place": 131,
+          "word": "капуста",
+          "type": "noun"
+        },
+        {
+          "place": 132,
+          "word": "картопля",
+          "type": "noun"
+        },
+        {
+          "place": 133,
+          "word": "огірок",
+          "type": "noun"
+        },
+        {
+          "place": 134,
+          "word": "помідор",
+          "type": "noun"
+        },
+        {
+          "place": 135,
+          "word": "цибуля",
+          "type": "noun"
+        },
+        {
+          "place": 136,
+          "word": "часник",
+          "type": "noun"
+        },
+        {
+          "place": 137,
+          "word": "молоко",
+          "type": "noun"
+        },
+        {
+          "place": 138,
+          "word": "хліб",
+          "type": "noun"
+        },
+        {
+          "place": 139,
+          "word": "масло",
+          "type": "noun"
+        },
+        {
+          "place": 140,
+          "word": "сир",
+          "type": "noun"
+        },
+        {
+          "place": 141,
+          "word": "м'ясо",
+          "type": "noun"
+        },
+        {
+          "place": 142,
+          "word": "риба",
+          "type": "noun"
+        },
+        {
+          "place": 143,
+          "word": "яйце",
+          "type": "noun"
+        },
+        {
+          "place": 144,
+          "word": "суп",
+          "type": "noun"
+        },
+        {
+          "place": 145,
+          "word": "каша",
+          "type": "noun"
+        },
+        {
+          "place": 146,
+          "word": "чай",
+          "type": "noun"
+        },
+        {
+          "place": 147,
+          "word": "кава",
+          "type": "noun"
+        },
+        {
+          "place": 148,
+          "word": "вода",
+          "type": "noun"
+        },
+        {
+          "place": 149,
+          "word": "сік",
+          "type": "noun"
+        },
+        {
+          "place": 150,
+          "word": "компот",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "place": 1,
+          "word": "мама",
+          "type": "noun"
+        },
+        {
+          "place": 2,
+          "word": "тато",
+          "type": "noun"
+        },
+        {
+          "place": 3,
+          "word": "баба",
+          "type": "noun"
+        },
+        {
+          "place": 4,
+          "word": "дід",
+          "type": "noun"
+        },
+        {
+          "place": 5,
+          "word": "я",
+          "type": "pronoun"
+        },
+        {
+          "place": 6,
+          "word": "ти",
+          "type": "pronoun"
+        },
+        {
+          "place": 7,
+          "word": "він",
+          "type": "pronoun"
+        },
+        {
+          "place": 8,
+          "word": "вона",
+          "type": "pronoun"
+        },
+        {
+          "place": 9,
+          "word": "ми",
+          "type": "pronoun"
+        },
+        {
+          "place": 10,
+          "word": "вони",
+          "type": "pronoun"
+        },
+        {
+          "place": 11,
+          "word": "їсти",
+          "type": "verb"
+        },
+        {
+          "place": 12,
+          "word": "пити",
+          "type": "verb"
+        },
+        {
+          "place": 13,
+          "word": "спати",
+          "type": "verb"
+        },
+        {
+          "place": 14,
+          "word": "йти",
+          "type": "verb"
+        },
+        {
+          "place": 15,
+          "word": "бігти",
+          "type": "verb"
+        },
+        {
+          "place": 16,
+          "word": "грати",
+          "type": "verb"
+        },
+        {
+          "place": 17,
+          "word": "читати",
+          "type": "verb"
+        },
+        {
+          "place": 18,
+          "word": "писати",
+          "type": "verb"
+        },
+        {
+          "place": 19,
+          "word": "малювати",
+          "type": "verb"
+        },
+        {
+          "place": 20,
+          "word": "співати",
+          "type": "verb"
+        },
+        {
+          "place": 21,
+          "word": "м'яч",
+          "type": "noun"
+        },
+        {
+          "place": 22,
+          "word": "лялька",
+          "type": "noun"
+        },
+        {
+          "place": 23,
+          "word": "машина",
+          "type": "noun"
+        },
+        {
+          "place": 24,
+          "word": "книга",
+          "type": "noun"
+        },
+        {
+          "place": 25,
+          "word": "олівець",
+          "type": "noun"
+        },
+        {
+          "place": 26,
+          "word": "папір",
+          "type": "noun"
+        },
+        {
+          "place": 27,
+          "word": "стіл",
+          "type": "noun"
+        },
+        {
+          "place": 28,
+          "word": "стілець",
+          "type": "noun"
+        },
+        {
+          "place": 29,
+          "word": "ліжко",
+          "type": "noun"
+        },
+        {
+          "place": 30,
+          "word": "шафа",
+          "type": "noun"
+        },
+        {
+          "place": 31,
+          "word": "вікно",
+          "type": "noun"
+        },
+        {
+          "place": 32,
+          "word": "двері",
+          "type": "noun"
+        },
+        {
+          "place": 33,
+          "word": "будинок",
+          "type": "noun"
+        },
+        {
+          "place": 34,
+          "word": "квартира",
+          "type": "noun"
+        },
+        {
+          "place": 35,
+          "word": "вулиця",
+          "type": "noun"
+        },
+        {
+          "place": 36,
+          "word": "парк",
+          "type": "noun"
+        },
+        {
+          "place": 37,
+          "word": "сад",
+          "type": "noun"
+        },
+        {
+          "place": 38,
+          "word": "дерево",
+          "type": "noun"
+        },
+        {
+          "place": 39,
+          "word": "квітка",
+          "type": "noun"
+        },
+        {
+          "place": 40,
+          "word": "трава",
+          "type": "noun"
+        },
+        {
+          "place": 41,
+          "word": "сонце",
+          "type": "noun"
+        },
+        {
+          "place": 42,
+          "word": "місяць",
+          "type": "noun"
+        },
+        {
+          "place": 43,
+          "word": "зірка",
+          "type": "noun"
+        },
+        {
+          "place": 44,
+          "word": "небо",
+          "type": "noun"
+        },
+        {
+          "place": 45,
+          "word": "дощ",
+          "type": "noun"
+        },
+        {
+          "place": 46,
+          "word": "сніг",
+          "type": "noun"
+        },
+        {
+          "place": 47,
+          "word": "вітер",
+          "type": "noun"
+        },
+        {
+          "place": 48,
+          "word": "хмара",
+          "type": "noun"
+        },
+        {
+          "place": 49,
+          "word": "вода",
+          "type": "noun"
+        },
+        {
+          "place": 50,
+          "word": "молоко",
+          "type": "noun"
+        },
+        {
+          "place": 51,
+          "word": "сік",
+          "type": "noun"
+        },
+        {
+          "place": 52,
+          "word": "чай",
+          "type": "noun"
+        },
+        {
+          "place": 53,
+          "word": "каша",
+          "type": "noun"
+        },
+        {
+          "place": 54,
+          "word": "хліб",
+          "type": "noun"
+        },
+        {
+          "place": 55,
+          "word": "яблуко",
+          "type": "noun"
+        },
+        {
+          "place": 56,
+          "word": "банан",
+          "type": "noun"
+        },
+        {
+          "place": 57,
+          "word": "груша",
+          "type": "noun"
+        },
+        {
+          "place": 58,
+          "word": "ягода",
+          "type": "noun"
+        },
+        {
+          "place": 59,
+          "word": "овоч",
+          "type": "noun"
+        },
+        {
+          "place": 60,
+          "word": "морква",
+          "type": "noun"
+        },
+        {
+          "place": 61,
+          "word": "картопля",
+          "type": "noun"
+        },
+        {
+          "place": 62,
+          "word": "огірок",
+          "type": "noun"
+        },
+        {
+          "place": 63,
+          "word": "помідор",
+          "type": "noun"
+        },
+        {
+          "place": 64,
+          "word": "собака",
+          "type": "noun"
+        },
+        {
+          "place": 65,
+          "word": "кіт",
+          "type": "noun"
+        },
+        {
+          "place": 66,
+          "word": "птах",
+          "type": "noun"
+        },
+        {
+          "place": 67,
+          "word": "риба",
+          "type": "noun"
+        },
+        {
+          "place": 68,
+          "word": "корова",
+          "type": "noun"
+        },
+        {
+          "place": 69,
+          "word": "кінь",
+          "type": "noun"
+        },
+        {
+          "place": 70,
+          "word": "курка",
+          "type": "noun"
+        },
+        {
+          "place": 71,
+          "word": "качка",
+          "type": "noun"
+        },
+        {
+          "place": 72,
+          "word": "гусак",
+          "type": "noun"
+        },
+        {
+          "place": 73,
+          "word": "свиня",
+          "type": "noun"
+        },
+        {
+          "place": 74,
+          "word": "вівця",
+          "type": "noun"
+        },
+        {
+          "place": 75,
+          "word": "коза",
+          "type": "noun"
+        },
+        {
+          "place": 76,
+          "word": "лев",
+          "type": "noun"
+        },
+        {
+          "place": 77,
+          "word": "тигр",
+          "type": "noun"
+        },
+        {
+          "place": 78,
+          "word": "слон",
+          "type": "noun"
+        },
+        {
+          "place": 79,
+          "word": "жираф",
+          "type": "noun"
+        },
+        {
+          "place": 80,
+          "word": "зебра",
+          "type": "noun"
+        },
+        {
+          "place": 81,
+          "word": "мавпа",
+          "type": "noun"
+        },
+        {
+          "place": 82,
+          "word": "ведмідь",
+          "type": "noun"
+        },
+        {
+          "place": 83,
+          "word": "вовк",
+          "type": "noun"
+        },
+        {
+          "place": 84,
+          "word": "лисиця",
+          "type": "noun"
+        },
+        {
+          "place": 85,
+          "word": "зайчик",
+          "type": "noun"
+        },
+        {
+          "place": 86,
+          "word": "їжак",
+          "type": "noun"
+        },
+        {
+          "place": 87,
+          "word": "білка",
+          "type": "noun"
+        },
+        {
+          "place": 88,
+          "word": "мураха",
+          "type": "noun"
+        },
+        {
+          "place": 89,
+          "word": "бджола",
+          "type": "noun"
+        },
+        {
+          "place": 90,
+          "word": "метелик",
+          "type": "noun"
+        },
+        {
+          "place": 91,
+          "word": "жук",
+          "type": "noun"
+        },
+        {
+          "place": 92,
+          "word": "муха",
+          "type": "noun"
+        },
+        {
+          "place": 93,
+          "word": "комар",
+          "type": "noun"
+        },
+        {
+          "place": 94,
+          "word": "сон",
+          "type": "noun"
+        },
+        {
+          "place": 95,
+          "word": "мрія",
+          "type": "noun"
+        },
+        {
+          "place": 96,
+          "word": "радість",
+          "type": "noun"
+        },
+        {
+          "place": 97,
+          "word": "сміх",
+          "type": "noun"
+        },
+        {
+          "place": 98,
+          "word": "сльоза",
+          "type": "noun"
+        },
+        {
+          "place": 99,
+          "word": "страх",
+          "type": "noun"
+        },
+        {
+          "place": 100,
+          "word": "любов",
+          "type": "noun"
+        },
+        {
+          "place": 101,
+          "word": "друг",
+          "type": "noun"
+        },
+        {
+          "place": 102,
+          "word": "подруга",
+          "type": "noun"
+        },
+        {
+          "place": 103,
+          "word": "гратися",
+          "type": "verb"
+        },
+        {
+          "place": 104,
+          "word": "бігати",
+          "type": "verb"
+        },
+        {
+          "place": 105,
+          "word": "стрибати",
+          "type": "verb"
+        },
+        {
+          "place": 106,
+          "word": "плавати",
+          "type": "verb"
+        },
+        {
+          "place": 107,
+          "word": "літати",
+          "type": "verb"
+        },
+        {
+          "place": 108,
+          "word": "плакати",
+          "type": "verb"
+        },
+        {
+          "place": 109,
+          "word": "сміятися",
+          "type": "verb"
+        },
+        {
+          "place": 110,
+          "word": "кричати",
+          "type": "verb"
+        },
+        {
+          "place": 111,
+          "word": "шепотіти",
+          "type": "verb"
+        },
+        {
+          "place": 112,
+          "word": "співати",
+          "type": "verb"
+        },
+        {
+          "place": 113,
+          "word": "танцювати",
+          "type": "verb"
+        },
+        {
+          "place": 114,
+          "word": "малювати",
+          "type": "verb"
+        },
+        {
+          "place": 115,
+          "word": "будувати",
+          "type": "verb"
+        },
+        {
+          "place": 116,
+          "word": "ламати",
+          "type": "verb"
+        },
+        {
+          "place": 117,
+          "word": "ремонтувати",
+          "type": "verb"
+        },
+        {
+          "place": 118,
+          "word": "читати",
+          "type": "verb"
+        },
+        {
+          "place": 119,
+          "word": "писати",
+          "type": "verb"
+        },
+        {
+          "place": 120,
+          "word": "рахувати",
+          "type": "verb"
+        },
+        {
+          "place": 121,
+          "word": "думати",
+          "type": "verb"
+        },
+        {
+          "place": 122,
+          "word": "знати",
+          "type": "verb"
+        },
+        {
+          "place": 123,
+          "word": "розуміти",
+          "type": "verb"
+        },
+        {
+          "place": 124,
+          "word": "пам'ятати",
+          "type": "verb"
+        },
+        {
+          "place": 125,
+          "word": "забувати",
+          "type": "verb"
+        },
+        {
+          "place": 126,
+          "word": "бачити",
+          "type": "verb"
+        },
+        {
+          "place": 127,
+          "word": "чути",
+          "type": "verb"
+        },
+        {
+          "place": 128,
+          "word": "відчувати",
+          "type": "verb"
+        },
+        {
+          "place": 129,
+          "word": "торкатися",
+          "type": "verb"
+        },
+        {
+          "place": 130,
+          "word": "нюхати",
+          "type": "verb"
+        },
+        {
+          "place": 131,
+          "word": "смакувати",
+          "type": "verb"
+        },
+        {
+          "place": 132,
+          "word": "говорити",
+          "type": "verb"
+        },
+        {
+          "place": 133,
+          "word": "розмовляти",
+          "type": "verb"
+        },
+        {
+          "place": 134,
+          "word": "запитувати",
+          "type": "verb"
+        },
+        {
+          "place": 135,
+          "word": "відповідати",
+          "type": "verb"
+        },
+        {
+          "place": 136,
+          "word": "розповідати",
+          "type": "verb"
+        },
+        {
+          "place": 137,
+          "word": "пояснювати",
+          "type": "verb"
+        },
+        {
+          "place": 138,
+          "word": "слухати",
+          "type": "verb"
+        },
+        {
+          "place": 139,
+          "word": "дивитися",
+          "type": "verb"
+        },
+        {
+          "place": 140,
+          "word": "спостерігати",
+          "type": "verb"
+        },
+        {
+          "place": 141,
+          "word": "гратися",
+          "type": "verb"
+        },
+        {
+          "place": 142,
+          "word": "вчитися",
+          "type": "verb"
+        },
+        {
+          "place": 143,
+          "word": "працювати",
+          "type": "verb"
+        },
+        {
+          "place": 144,
+          "word": "відпочивати",
+          "type": "verb"
+        },
+        {
+          "place": 145,
+          "word": "подорожувати",
+          "type": "verb"
+        },
+        {
+          "place": 146,
+          "word": "плавати",
+          "type": "verb"
+        },
+        {
+          "place": 147,
+          "word": "літати",
+          "type": "verb"
+        },
+        {
+          "place": 148,
+          "word": "бігати",
+          "type": "verb"
+        },
+        {
+          "place": 149,
+          "word": "стрибати",
+          "type": "verb"
+        },
+        {
+          "place": 150,
+          "word": "ходити",
+          "type": "verb"
+        }
+      ]
+    }
+  ],
+  "wordSequence": [
+    {
+      "place": 1,
+      "word": "мама",
+      "type": "noun",
+      "group": "Family"
+    },
+    {
+      "place": 2,
+      "word": "тато",
+      "type": "noun",
+      "group": "Family"
+    },
+    {
+      "place": 3,
+      "word": "баба",
+      "type": "noun",
+      "group": "Family"
+    },
+    {
+      "place": 4,
+      "word": "дід",
+      "type": "noun",
+      "group": "Family"
+    },
+    {
+      "place": 5,
+      "word": "я",
+      "type": "pronoun",
+      "group": "Pronouns"
+    },
+    {
+      "place": 6,
+      "word": "ти",
+      "type": "pronoun",
+      "group": "Pronouns"
+    },
+    {
+      "place": 7,
+      "word": "він",
+      "type": "pronoun",
+      "group": "Pronouns"
+    },
+    {
+      "place": 8,
+      "word": "вона",
+      "type": "pronoun",
+      "group": "Pronouns"
+    },
+    {
+      "place": 9,
+      "word": "ми",
+      "type": "pronoun",
+      "group": "Pronouns"
+    },
+    {
+      "place": 10,
+      "word": "вони",
+      "type": "pronoun",
+      "group": "Pronouns"
+    },
+    {
+      "place": 11,
+      "word": "м'яч",
+      "type": "noun",
+      "group": "Toys"
+    },
+    {
+      "place": 12,
+      "word": "лялька",
+      "type": "noun",
+      "group": "Toys"
+    },
+    {
+      "place": 13,
+      "word": "машина",
+      "type": "noun",
+      "group": "Toys"
+    },
+    {
+      "place": 14,
+      "word": "книга",
+      "type": "noun",
+      "group": "Stationery"
+    },
+    {
+      "place": 15,
+      "word": "олівець",
+      "type": "noun",
+      "group": "Stationery"
+    },
+    {
+      "place": 16,
+      "word": "папір",
+      "type": "noun",
+      "group": "Stationery"
+    },
+    {
+      "place": 17,
+      "word": "стіл",
+      "type": "noun",
+      "group": "Furniture"
+    },
+    {
+      "place": 18,
+      "word": "стілець",
+      "type": "noun",
+      "group": "Furniture"
+    },
+    {
+      "place": 19,
+      "word": "ліжко",
+      "type": "noun",
+      "group": "Furniture"
+    },
+    {
+      "place": 20,
+      "word": "шафа",
+      "type": "noun",
+      "group": "Furniture"
+    },
+    {
+      "place": 21,
+      "word": "двері",
+      "type": "noun",
+      "group": "Furniture"
+    },
+    {
+      "place": 22,
+      "word": "вікно",
+      "type": "noun",
+      "group": "Furniture"
+    },
+    {
+      "place": 23,
+      "word": "будинок",
+      "type": "noun",
+      "group": "Places"
+    },
+    {
+      "place": 24,
+      "word": "квартира",
+      "type": "noun",
+      "group": "Places"
+    },
+    {
+      "place": 25,
+      "word": "вулиця",
+      "type": "noun",
+      "group": "Places"
+    },
+    {
+      "place": 26,
+      "word": "парк",
+      "type": "noun",
+      "group": "Places"
+    },
+    {
+      "place": 27,
+      "word": "сонце",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 28,
+      "word": "місяць",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 29,
+      "word": "зірка",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 30,
+      "word": "дерево",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 31,
+      "word": "небо",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 32,
+      "word": "квітка",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 33,
+      "word": "дощ",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 34,
+      "word": "трава",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 35,
+      "word": "хмара",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 36,
+      "word": "сніг",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 37,
+      "word": "вітер",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 38,
+      "word": "яблуко",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 39,
+      "word": "груша",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 40,
+      "word": "банан",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 41,
+      "word": "ягода",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 42,
+      "word": "овоч",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 43,
+      "word": "молоко",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 44,
+      "word": "морква",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 45,
+      "word": "хліб",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 46,
+      "word": "картопля",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 47,
+      "word": "огірок",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 48,
+      "word": "помідор",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 49,
+      "word": "каша",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 50,
+      "word": "чай",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 51,
+      "word": "вода",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 52,
+      "word": "сік",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 53,
+      "word": "риба",
+      "type": "noun",
+      "group": "Food"
+    },
+    {
+      "place": 54,
+      "word": "співати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 55,
+      "word": "малювати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 56,
+      "word": "читати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 57,
+      "word": "писати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 58,
+      "word": "гратися",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 59,
+      "word": "бігати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 60,
+      "word": "плавати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 61,
+      "word": "стрибати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 62,
+      "word": "літати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 63,
+      "word": "їсти",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 64,
+      "word": "пити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 65,
+      "word": "спати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 66,
+      "word": "йти",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 67,
+      "word": "бігти",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 68,
+      "word": "грати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 69,
+      "word": "танцювати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 70,
+      "word": "бачити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 71,
+      "word": "чути",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 72,
+      "word": "відчувати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 73,
+      "word": "знати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 74,
+      "word": "розуміти",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 75,
+      "word": "плакати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 76,
+      "word": "сміятися",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 77,
+      "word": "дивитися",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 78,
+      "word": "слухати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 79,
+      "word": "кричати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 80,
+      "word": "шепотіти",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 81,
+      "word": "відповідати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 82,
+      "word": "працювати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 83,
+      "word": "говорити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 84,
+      "word": "розмовляти",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 85,
+      "word": "ходити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 86,
+      "word": "вчитися",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 87,
+      "word": "казати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 88,
+      "word": "любити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 89,
+      "word": "давати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 90,
+      "word": "брати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 91,
+      "word": "мати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 92,
+      "word": "робити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 93,
+      "word": "питати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 94,
+      "word": "допомагати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 95,
+      "word": "їхати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 96,
+      "word": "сидіти",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 97,
+      "word": "стояти",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 98,
+      "word": "лежати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 99,
+      "word": "посміхатися",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 100,
+      "word": "сад",
+      "type": "noun",
+      "group": "Nature"
+    },
+    {
+      "place": 101,
+      "word": "собака",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 102,
+      "word": "кіт",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 103,
+      "word": "птах",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 104,
+      "word": "корова",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 105,
+      "word": "кінь",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 106,
+      "word": "курка",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 107,
+      "word": "качка",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 108,
+      "word": "гусак",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 109,
+      "word": "свиня",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 110,
+      "word": "вівця",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 111,
+      "word": "коза",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 112,
+      "word": "лев",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 113,
+      "word": "тигр",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 114,
+      "word": "слон",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 115,
+      "word": "жираф",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 116,
+      "word": "зебра",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 117,
+      "word": "мавпа",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 118,
+      "word": "ведмідь",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 119,
+      "word": "вовк",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 120,
+      "word": "лисиця",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 121,
+      "word": "зайчик",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 122,
+      "word": "їжак",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 123,
+      "word": "білка",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 124,
+      "word": "мураха",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 125,
+      "word": "бджола",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 126,
+      "word": "метелик",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 127,
+      "word": "жук",
+      "type": "noun",
+      "group": "Animals"
+    },
+    {
+      "place": 128,
+      "word": "показувати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 129,
+      "word": "шукати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 130,
+      "word": "знаходити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 131,
+      "word": "відкривати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 132,
+      "word": "закривати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 133,
+      "word": "вмикати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 134,
+      "word": "вимикати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 135,
+      "word": "вчити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 136,
+      "word": "гратися",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 137,
+      "word": "дружити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 138,
+      "word": "прощати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 139,
+      "word": "прощатися",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 140,
+      "word": "вітати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 141,
+      "word": "вітатися",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 142,
+      "word": "дякувати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 143,
+      "word": "просити",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 144,
+      "word": "дарувати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 145,
+      "word": "отримувати",
+      "type": "verb",
+      "group": "Actions"
+    },
+    {
+      "place": 146,
+      "word": "подарунок",
+      "type": "noun",
+      "group": "Objects"
+    },
+    {
+      "place": 147,
+      "word": "іграшка",
+      "type": "noun",
+      "group": "Objects"
+    },
+    {
+      "place": 148,
+      "word": "фарби",
+      "type": "noun",
+      "group": "Objects"
+    },
+    {
+      "place": 149,
+      "word": "пензлик",
+      "type": "noun",
+      "group": "Objects"
+    },
+    {
+      "place": 150,
+      "word": "стіна",
+      "type": "noun",
+      "group": "Objects"
+    }
+  ],
+  "wordGroups": {
+    "Family_1": [
+      {
+        "place": 1,
+        "word": "мама",
+        "type": "noun"
+      },
+      {
+        "place": 2,
+        "word": "тато",
+        "type": "noun"
+      },
+      {
+        "place": 3,
+        "word": "баба",
+        "type": "noun"
+      },
+      {
+        "place": 4,
+        "word": "дід",
+        "type": "noun"
+      }
+    ],
+    "Pronouns_1": [
+      {
+        "place": 5,
+        "word": "я",
+        "type": "pronoun"
+      },
+      {
+        "place": 6,
+        "word": "ти",
+        "type": "pronoun"
+      },
+      {
+        "place": 7,
+        "word": "він",
+        "type": "pronoun"
+      },
+      {
+        "place": 8,
+        "word": "вона",
+        "type": "pronoun"
+      },
+      {
+        "place": 9,
+        "word": "ми",
+        "type": "pronoun"
+      },
+      {
+        "place": 10,
+        "word": "вони",
+        "type": "pronoun"
+      }
+    ],
+    "Toys_1": [
+      {
+        "place": 11,
+        "word": "м'яч",
+        "type": "noun"
+      },
+      {
+        "place": 12,
+        "word": "лялька",
+        "type": "noun"
+      },
+      {
+        "place": 13,
+        "word": "машина",
+        "type": "noun"
+      }
+    ],
+    "Stationery_1": [
+      {
+        "place": 14,
+        "word": "книга",
+        "type": "noun"
+      },
+      {
+        "place": 15,
+        "word": "олівець",
+        "type": "noun"
+      },
+      {
+        "place": 16,
+        "word": "папір",
+        "type": "noun"
+      }
+    ],
+    "Furniture_1": [
+      {
+        "place": 17,
+        "word": "стіл",
+        "type": "noun"
+      },
+      {
+        "place": 18,
+        "word": "стілець",
+        "type": "noun"
+      },
+      {
+        "place": 19,
+        "word": "ліжко",
+        "type": "noun"
+      },
+      {
+        "place": 20,
+        "word": "шафа",
+        "type": "noun"
+      },
+      {
+        "place": 21,
+        "word": "двері",
+        "type": "noun"
+      },
+      {
+        "place": 22,
+        "word": "вікно",
+        "type": "noun"
+      }
+    ],
+    "Places_1": [
+      {
+        "place": 23,
+        "word": "будинок",
+        "type": "noun"
+      },
+      {
+        "place": 24,
+        "word": "квартира",
+        "type": "noun"
+      },
+      {
+        "place": 25,
+        "word": "вулиця",
+        "type": "noun"
+      },
+      {
+        "place": 26,
+        "word": "парк",
+        "type": "noun"
+      }
+    ],
+    "Nature_1": [
+      {
+        "place": 27,
+        "word": "сонце",
+        "type": "noun"
+      },
+      {
+        "place": 28,
+        "word": "місяць",
+        "type": "noun"
+      },
+      {
+        "place": 29,
+        "word": "зірка",
+        "type": "noun"
+      },
+      {
+        "place": 30,
+        "word": "дерево",
+        "type": "noun"
+      },
+      {
+        "place": 31,
+        "word": "небо",
+        "type": "noun"
+      },
+      {
+        "place": 32,
+        "word": "квітка",
+        "type": "noun"
+      },
+      {
+        "place": 33,
+        "word": "дощ",
+        "type": "noun"
+      },
+      {
+        "place": 34,
+        "word": "трава",
+        "type": "noun"
+      },
+      {
+        "place": 35,
+        "word": "хмара",
+        "type": "noun"
+      },
+      {
+        "place": 36,
+        "word": "сніг",
+        "type": "noun"
+      }
+    ],
+    "Nature_2": [
+      {
+        "place": 37,
+        "word": "вітер",
+        "type": "noun"
+      },
+      {
+        "place": 100,
+        "word": "сад",
+        "type": "noun"
+      }
+    ],
+    "Food_1": [
+      {
+        "place": 38,
+        "word": "яблуко",
+        "type": "noun"
+      },
+      {
+        "place": 39,
+        "word": "груша",
+        "type": "noun"
+      },
+      {
+        "place": 40,
+        "word": "банан",
+        "type": "noun"
+      },
+      {
+        "place": 41,
+        "word": "ягода",
+        "type": "noun"
+      },
+      {
+        "place": 42,
+        "word": "овоч",
+        "type": "noun"
+      },
+      {
+        "place": 43,
+        "word": "молоко",
+        "type": "noun"
+      },
+      {
+        "place": 44,
+        "word": "морква",
+        "type": "noun"
+      },
+      {
+        "place": 45,
+        "word": "хліб",
+        "type": "noun"
+      },
+      {
+        "place": 46,
+        "word": "картопля",
+        "type": "noun"
+      },
+      {
+        "place": 47,
+        "word": "огірок",
+        "type": "noun"
+      }
+    ],
+    "Food_2": [
+      {
+        "place": 48,
+        "word": "помідор",
+        "type": "noun"
+      },
+      {
+        "place": 49,
+        "word": "каша",
+        "type": "noun"
+      },
+      {
+        "place": 50,
+        "word": "чай",
+        "type": "noun"
+      },
+      {
+        "place": 51,
+        "word": "вода",
+        "type": "noun"
+      },
+      {
+        "place": 52,
+        "word": "сік",
+        "type": "noun"
+      },
+      {
+        "place": 53,
+        "word": "риба",
+        "type": "noun"
+      }
+    ],
+    "Actions_1": [
+      {
+        "place": 54,
+        "word": "співати",
+        "type": "verb"
+      },
+      {
+        "place": 55,
+        "word": "малювати",
+        "type": "verb"
+      },
+      {
+        "place": 56,
+        "word": "читати",
+        "type": "verb"
+      },
+      {
+        "place": 57,
+        "word": "писати",
+        "type": "verb"
+      },
+      {
+        "place": 58,
+        "word": "гратися",
+        "type": "verb"
+      },
+      {
+        "place": 59,
+        "word": "бігати",
+        "type": "verb"
+      },
+      {
+        "place": 60,
+        "word": "плавати",
+        "type": "verb"
+      },
+      {
+        "place": 61,
+        "word": "стрибати",
+        "type": "verb"
+      },
+      {
+        "place": 62,
+        "word": "літати",
+        "type": "verb"
+      },
+      {
+        "place": 63,
+        "word": "їсти",
+        "type": "verb"
+      }
+    ],
+    "Actions_2": [
+      {
+        "place": 64,
+        "word": "пити",
+        "type": "verb"
+      },
+      {
+        "place": 65,
+        "word": "спати",
+        "type": "verb"
+      },
+      {
+        "place": 66,
+        "word": "йти",
+        "type": "verb"
+      },
+      {
+        "place": 67,
+        "word": "бігти",
+        "type": "verb"
+      },
+      {
+        "place": 68,
+        "word": "грати",
+        "type": "verb"
+      },
+      {
+        "place": 69,
+        "word": "танцювати",
+        "type": "verb"
+      },
+      {
+        "place": 70,
+        "word": "бачити",
+        "type": "verb"
+      },
+      {
+        "place": 71,
+        "word": "чути",
+        "type": "verb"
+      },
+      {
+        "place": 72,
+        "word": "відчувати",
+        "type": "verb"
+      },
+      {
+        "place": 73,
+        "word": "знати",
+        "type": "verb"
+      }
+    ],
+    "Actions_3": [
+      {
+        "place": 74,
+        "word": "розуміти",
+        "type": "verb"
+      },
+      {
+        "place": 75,
+        "word": "плакати",
+        "type": "verb"
+      },
+      {
+        "place": 76,
+        "word": "сміятися",
+        "type": "verb"
+      },
+      {
+        "place": 77,
+        "word": "дивитися",
+        "type": "verb"
+      },
+      {
+        "place": 78,
+        "word": "слухати",
+        "type": "verb"
+      },
+      {
+        "place": 79,
+        "word": "кричати",
+        "type": "verb"
+      },
+      {
+        "place": 80,
+        "word": "шепотіти",
+        "type": "verb"
+      },
+      {
+        "place": 81,
+        "word": "відповідати",
+        "type": "verb"
+      },
+      {
+        "place": 82,
+        "word": "працювати",
+        "type": "verb"
+      },
+      {
+        "place": 83,
+        "word": "говорити",
+        "type": "verb"
+      }
+    ],
+    "Actions_4": [
+      {
+        "place": 84,
+        "word": "розмовляти",
+        "type": "verb"
+      },
+      {
+        "place": 85,
+        "word": "ходити",
+        "type": "verb"
+      },
+      {
+        "place": 86,
+        "word": "вчитися",
+        "type": "verb"
+      },
+      {
+        "place": 87,
+        "word": "казати",
+        "type": "verb"
+      },
+      {
+        "place": 88,
+        "word": "любити",
+        "type": "verb"
+      },
+      {
+        "place": 89,
+        "word": "давати",
+        "type": "verb"
+      },
+      {
+        "place": 90,
+        "word": "брати",
+        "type": "verb"
+      },
+      {
+        "place": 91,
+        "word": "мати",
+        "type": "verb"
+      },
+      {
+        "place": 92,
+        "word": "робити",
+        "type": "verb"
+      },
+      {
+        "place": 93,
+        "word": "питати",
+        "type": "verb"
+      }
+    ],
+    "Actions_5": [
+      {
+        "place": 94,
+        "word": "допомагати",
+        "type": "verb"
+      },
+      {
+        "place": 95,
+        "word": "їхати",
+        "type": "verb"
+      },
+      {
+        "place": 96,
+        "word": "сидіти",
+        "type": "verb"
+      },
+      {
+        "place": 97,
+        "word": "стояти",
+        "type": "verb"
+      },
+      {
+        "place": 98,
+        "word": "лежати",
+        "type": "verb"
+      },
+      {
+        "place": 99,
+        "word": "посміхатися",
+        "type": "verb"
+      }
+    ],
+    "GroupName_1": [
+      "D",
+      "o",
+      "m",
+      "e",
+      "s",
+      "t",
+      "i",
+      "c",
+      " ",
+      "A"
+    ],
+    "GroupName_2": [
+      "n",
+      "i",
+      "m",
+      "a",
+      "l",
+      "s",
+      "W",
+      "i",
+      "l",
+      "d"
+    ],
+    "GroupName_3": [
+      " ",
+      "A",
+      "n",
+      "i",
+      "m",
+      "a",
+      "l",
+      "s",
+      "I",
+      "n"
+    ],
+    "GroupName_4": [
+      "s",
+      "e",
+      "c",
+      "t",
+      "s",
+      "B",
+      "a",
+      "s",
+      "i",
+      "c"
+    ],
+    "GroupName_5": [
+      " ",
+      "A",
+      "c",
+      "t",
+      "i",
+      "o",
+      "n",
+      "s",
+      "S",
+      "o"
+    ],
+    "GroupName_6": [
+      "c",
+      "i",
+      "a",
+      "l",
+      " ",
+      "A",
+      "c",
+      "t",
+      "i",
+      "o"
+    ],
+    "GroupName_7": [
+      "n",
+      "s",
+      "O",
+      "b",
+      "j",
+      "e",
+      "c",
+      "t",
+      "s"
+    ],
+    "words_1": [
+      {
+        "place": 101,
+        "word": "собака",
+        "type": "noun"
+      },
+      {
+        "place": 102,
+        "word": "кіт",
+        "type": "noun"
+      },
+      {
+        "place": 104,
+        "word": "корова",
+        "type": "noun"
+      },
+      {
+        "place": 105,
+        "word": "кінь",
+        "type": "noun"
+      },
+      {
+        "place": 106,
+        "word": "курка",
+        "type": "noun"
+      },
+      {
+        "place": 107,
+        "word": "качка",
+        "type": "noun"
+      },
+      {
+        "place": 108,
+        "word": "гусак",
+        "type": "noun"
+      },
+      {
+        "place": 109,
+        "word": "свиня",
+        "type": "noun"
+      },
+      {
+        "place": 110,
+        "word": "вівця",
+        "type": "noun"
+      },
+      {
+        "place": 111,
+        "word": "коза",
+        "type": "noun"
+      }
+    ],
+    "words_2": [
+      {
+        "place": 112,
+        "word": "лев",
+        "type": "noun"
+      },
+      {
+        "place": 113,
+        "word": "тигр",
+        "type": "noun"
+      },
+      {
+        "place": 114,
+        "word": "слон",
+        "type": "noun"
+      },
+      {
+        "place": 115,
+        "word": "жираф",
+        "type": "noun"
+      },
+      {
+        "place": 116,
+        "word": "зебра",
+        "type": "noun"
+      },
+      {
+        "place": 117,
+        "word": "мавпа",
+        "type": "noun"
+      },
+      {
+        "place": 118,
+        "word": "ведмідь",
+        "type": "noun"
+      },
+      {
+        "place": 119,
+        "word": "вовк",
+        "type": "noun"
+      },
+      {
+        "place": 120,
+        "word": "лисиця",
+        "type": "noun"
+      },
+      {
+        "place": 121,
+        "word": "зайчик",
+        "type": "noun"
+      }
+    ],
+    "words_3": [
+      {
+        "place": 122,
+        "word": "їжак",
+        "type": "noun"
+      },
+      {
+        "place": 123,
+        "word": "білка",
+        "type": "noun"
+      },
+      {
+        "place": 124,
+        "word": "мураха",
+        "type": "noun"
+      },
+      {
+        "place": 125,
+        "word": "бджола",
+        "type": "noun"
+      },
+      {
+        "place": 126,
+        "word": "метелик",
+        "type": "noun"
+      },
+      {
+        "place": 127,
+        "word": "жук",
+        "type": "noun"
+      },
+      {
+        "place": 128,
+        "word": "показувати",
+        "type": "verb"
+      },
+      {
+        "place": 129,
+        "word": "шукати",
+        "type": "verb"
+      },
+      {
+        "place": 130,
+        "word": "знаходити",
+        "type": "verb"
+      },
+      {
+        "place": 131,
+        "word": "відкривати",
+        "type": "verb"
+      }
+    ],
+    "words_4": [
+      {
+        "place": 132,
+        "word": "закривати",
+        "type": "verb"
+      },
+      {
+        "place": 133,
+        "word": "вмикати",
+        "type": "verb"
+      },
+      {
+        "place": 134,
+        "word": "вимикати",
+        "type": "verb"
+      },
+      {
+        "place": 135,
+        "word": "вчити",
+        "type": "verb"
+      },
+      {
+        "place": 136,
+        "word": "гратися",
+        "type": "verb"
+      },
+      {
+        "place": 137,
+        "word": "дружити",
+        "type": "verb"
+      },
+      {
+        "place": 138,
+        "word": "прощати",
+        "type": "verb"
+      },
+      {
+        "place": 139,
+        "word": "прощатися",
+        "type": "verb"
+      },
+      {
+        "place": 140,
+        "word": "вітати",
+        "type": "verb"
+      },
+      {
+        "place": 141,
+        "word": "вітатися",
+        "type": "verb"
+      }
+    ],
+    "words_5": [
+      {
+        "place": 142,
+        "word": "дякувати",
+        "type": "verb"
+      },
+      {
+        "place": 143,
+        "word": "просити",
+        "type": "verb"
+      },
+      {
+        "place": 144,
+        "word": "дарувати",
+        "type": "verb"
+      },
+      {
+        "place": 145,
+        "word": "отримувати",
+        "type": "verb"
+      },
+      {
+        "place": 146,
+        "word": "подарунок",
+        "type": "noun"
+      },
+      {
+        "place": 147,
+        "word": "іграшка",
+        "type": "noun"
+      },
+      {
+        "place": 148,
+        "word": "фарби",
+        "type": "noun"
+      },
+      {
+        "place": 149,
+        "word": "пензлик",
+        "type": "noun"
+      },
+      {
+        "place": 150,
+        "word": "стіна",
+        "type": "noun"
+      }
+    ]
+  },
+  "dependOnGroups": "{\n  \"data\": [\n    {\n      \"groupName\": \"Family_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"Pronouns_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"Toys_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"Stationery_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"Furniture_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"Places_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"Nature_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"Nature_2\",\n      \"dependsOnGroups\": [\"Nature_1\"]\n    },\n    {\n      \"groupName\": \"Food_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"Food_2\",\n      \"dependsOnGroups\": [\"Food_1\"]\n    },\n    {\n      \"groupName\": \"Actions_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"Actions_2\",\n      \"dependsOnGroups\": [\"Actions_1\"]\n    },\n    {\n      \"groupName\": \"Actions_3\",\n      \"dependsOnGroups\": [\"Actions_1\", \"Actions_2\"]\n    },\n    {\n      \"groupName\": \"Actions_4\",\n      \"dependsOnGroups\": [\"Actions_1\", \"Actions_2\", \"Actions_3\"]\n    },\n    {\n      \"groupName\": \"Actions_5\",\n      \"dependsOnGroups\": [\"Actions_1\", \"Actions_2\", \"Actions_3\", \"Actions_4\"]\n    },\n    {\n      \"groupName\": \"GroupName_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"GroupName_2\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"GroupName_3\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"GroupName_4\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"GroupName_5\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"GroupName_6\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"GroupName_7\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"words_1\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"words_2\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"words_3\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"words_4\",\n      \"dependsOnGroups\": []\n    },\n    {\n      \"groupName\": \"words_5\",\n      \"dependsOnGroups\": []\n    }\n  ]\n}\n",
+  "eduProgram": "{\n  \"curriculum\": {\n    \"level_1\": [\n      \"Family_1\",\n      \"Toys_1\",\n      \"Stationery_1\",\n      \"Furniture_1\",\n      \"Places_1\",\n      \"Nature_1\",\n      \"Food_1\"\n    ],\n    \"level_2\": [\n      \"Pronouns_1\",\n      \"Nature_2\",\n      \"Food_2\",\n      \"Actions_1\"\n    ],\n    \"level_3\": [\n      \"Actions_2\",\n      \"Actions_3\",\n      \"Actions_4\",\n      \"Actions_5\"\n    ]\n  }\n}\n",
+  "sequenceLength": 150,
+  "steps": [
+    "getWordSequences",
+    "getAveragedWordSequence",
+    "checkWordsGroup",
+    "splitGroups",
+    "dependsOnGroups",
+    "getEduProgram"
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "spezialists": [
+    "expert in early childhood development",
+    "highly qualified linguist"
+  ],
+  "groupCreteria": [
+    "good to learn together",
+    "simple and clear language",
+    "relevant to daily life",
+    "supports early vocabulary",
+    "encourages sensory exploration",
+    "introduces basic concepts",
+    "aligned with developmental milestones",
+    "promotes early communication",
+    "age-appropriate play themes",
+    "enhances early motor skills",
+    "supports early social skills",
+    "relatable to family and home",
+    "stimulates curiosity",
+    "builds foundational knowledge",
+    "encourages repetition for mastery"
+  ],
+  "data": "the norte monkey\n\nin a village there were many monkeys\n\nsitting on a mango tree\n\none of them was a big naughty monkey\n\nhe enjoyed troubling other people and\n\nplaying with all of their things",
+  "analyzedData": {
+    "data": [
+      {
+        "words": "the",
+        "type": "article",
+        "learning": "single"
+      },
+      {
+        "words": "naughty monkey",
+        "type": "adjective-noun",
+        "learning": "pair"
+      },
+      {
+        "words": "in",
+        "type": "preposition",
+        "learning": "single"
+      },
+      {
+        "words": "a",
+        "type": "article",
+        "learning": "single"
+      },
+      {
+        "words": "village",
+        "type": "noun",
+        "learning": "single"
+      },
+      {
+        "words": "there",
+        "type": "adverb",
+        "learning": "single"
+      },
+      {
+        "words": "were",
+        "type": "verb",
+        "learning": "single"
+      },
+      {
+        "words": "many",
+        "type": "adjective",
+        "learning": "single"
+      },
+      {
+        "words": "monkeys",
+        "type": "noun",
+        "learning": "single"
+      },
+      {
+        "words": "sitting",
+        "type": "verb",
+        "learning": "single"
+      },
+      {
+        "words": "on",
+        "type": "preposition",
+        "learning": "single"
+      },
+      {
+        "words": "a",
+        "type": "article",
+        "learning": "single"
+      },
+      {
+        "words": "mango tree",
+        "type": "noun-noun",
+        "learning": "pair"
+      },
+      {
+        "words": "one",
+        "type": "pronoun",
+        "learning": "single"
+      },
+      {
+        "words": "of",
+        "type": "preposition",
+        "learning": "single"
+      },
+      {
+        "words": "them",
+        "type": "pronoun",
+        "learning": "single"
+      },
+      {
+        "words": "was",
+        "type": "verb",
+        "learning": "single"
+      },
+      {
+        "words": "a",
+        "type": "article",
+        "learning": "single"
+      },
+      {
+        "words": "big",
+        "type": "adjective",
+        "learning": "single"
+      },
+      {
+        "words": "naughty monkey",
+        "type": "adjective-noun",
+        "learning": "pair"
+      },
+      {
+        "words": "he",
+        "type": "pronoun",
+        "learning": "single"
+      },
+      {
+        "words": "enjoyed",
+        "type": "verb",
+        "learning": "single"
+      },
+      {
+        "words": "troubling",
+        "type": "verb",
+        "learning": "single"
+      },
+      {
+        "words": "other",
+        "type": "adjective",
+        "learning": "single"
+      },
+      {
+        "words": "people",
+        "type": "noun",
+        "learning": "single"
+      },
+      {
+        "words": "and",
+        "type": "conjunction",
+        "learning": "single"
+      },
+      {
+        "words": "playing",
+        "type": "verb",
+        "learning": "single"
+      },
+      {
+        "words": "with",
+        "type": "preposition",
+        "learning": "single"
+      },
+      {
+        "words": "all",
+        "type": "adjective",
+        "learning": "single"
+      },
+      {
+        "words": "of",
+        "type": "preposition",
+        "learning": "single"
+      },
+      {
+        "words": "their",
+        "type": "pronoun",
+        "learning": "single"
+      },
+      {
+        "words": "things",
+        "type": "noun",
+        "learning": "single"
+      }
+    ]
+  },
+  "wordsSequence": {
+    "data": [
+      {
+        "word": "the",
+        "type": "article",
+        "topic": "Article",
+        "learning": "single"
+      },
+      {
+        "words": "naughty monkey",
+        "type": "adjective-noun",
+        "topic": "Animal",
+        "learning": "pair"
+      },
+      {
+        "word": "in",
+        "type": "preposition",
+        "topic": "Preposition",
+        "learning": "single"
+      },
+      {
+        "word": "a",
+        "type": "article",
+        "topic": "Article",
+        "learning": "single"
+      },
+      {
+        "word": "village",
+        "type": "noun",
+        "topic": "Place",
+        "learning": "single"
+      },
+      {
+        "word": "there",
+        "type": "adverb",
+        "topic": "Adverb",
+        "learning": "single"
+      },
+      {
+        "word": "were",
+        "type": "verb",
+        "topic": "Verb",
+        "learning": "single"
+      },
+      {
+        "word": "many",
+        "type": "adjective",
+        "topic": "Quantity",
+        "learning": "single"
+      },
+      {
+        "word": "monkeys",
+        "type": "noun",
+        "topic": "Animal",
+        "learning": "single"
+      },
+      {
+        "word": "sitting",
+        "type": "verb",
+        "topic": "Action",
+        "learning": "single"
+      },
+      {
+        "word": "on",
+        "type": "preposition",
+        "topic": "Preposition",
+        "learning": "single"
+      },
+      {
+        "words": "mango tree",
+        "type": "noun-noun",
+        "topic": "Nature",
+        "learning": "pair"
+      },
+      {
+        "word": "one",
+        "type": "pronoun",
+        "topic": "Pronoun",
+        "learning": "single"
+      },
+      {
+        "word": "of",
+        "type": "preposition",
+        "topic": "Preposition",
+        "learning": "single"
+      },
+      {
+        "word": "them",
+        "type": "pronoun",
+        "topic": "Pronoun",
+        "learning": "single"
+      },
+      {
+        "word": "was",
+        "type": "verb",
+        "topic": "Verb",
+        "learning": "single"
+      },
+      {
+        "word": "big",
+        "type": "adjective",
+        "topic": "Size",
+        "learning": "single"
+      },
+      {
+        "word": "he",
+        "type": "pronoun",
+        "topic": "Pronoun",
+        "learning": "single"
+      },
+      {
+        "word": "enjoyed",
+        "type": "verb",
+        "topic": "Action",
+        "learning": "single"
+      },
+      {
+        "word": "troubling",
+        "type": "verb",
+        "topic": "Action",
+        "learning": "single"
+      },
+      {
+        "word": "other",
+        "type": "adjective",
+        "topic": "Adjective",
+        "learning": "single"
+      },
+      {
+        "word": "people",
+        "type": "noun",
+        "topic": "Human",
+        "learning": "single"
+      },
+      {
+        "word": "and",
+        "type": "conjunction",
+        "topic": "Conjunction",
+        "learning": "single"
+      },
+      {
+        "word": "playing",
+        "type": "verb",
+        "topic": "Action",
+        "learning": "single"
+      },
+      {
+        "word": "with",
+        "type": "preposition",
+        "topic": "Preposition",
+        "learning": "single"
+      },
+      {
+        "word": "all",
+        "type": "adjective",
+        "topic": "Quantity",
+        "learning": "single"
+      },
+      {
+        "word": "their",
+        "type": "pronoun",
+        "topic": "Pronoun",
+        "learning": "single"
+      },
+      {
+        "word": "things",
+        "type": "noun",
+        "topic": "Object",
+        "learning": "single"
+      }
+    ]
+  },
+  "eduProgram": {
+    "data": [
+      {
+        "level": "level_1",
+        "topics": [
+          {
+            "topic": "Article",
+            "dependsOn": []
+          },
+          {
+            "topic": "Animal",
+            "dependsOn": []
+          },
+          {
+            "topic": "Preposition",
+            "dependsOn": []
+          },
+          {
+            "topic": "Place",
+            "dependsOn": []
+          },
+          {
+            "topic": "Adverb",
+            "dependsOn": []
+          },
+          {
+            "topic": "Verb",
+            "dependsOn": []
+          },
+          {
+            "topic": "Quantity",
+            "dependsOn": []
+          },
+          {
+            "topic": "Action",
+            "dependsOn": []
+          },
+          {
+            "topic": "Pronoun",
+            "dependsOn": []
+          },
+          {
+            "topic": "Size",
+            "dependsOn": []
+          },
+          {
+            "topic": "Adjective",
+            "dependsOn": []
+          },
+          {
+            "topic": "Human",
+            "dependsOn": []
+          },
+          {
+            "topic": "Conjunction",
+            "dependsOn": []
+          },
+          {
+            "topic": "Object",
+            "dependsOn": []
+          }
+        ]
+      },
+      {
+        "level": "level_2",
+        "topics": [
+          {
+            "topic": "Nature",
+            "dependsOn": [
+              "Animal",
+              "Place"
+            ]
+          },
+          {
+            "topic": "Animal",
+            "dependsOn": [
+              "Adjective"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "finalData": {
+    "level_1": {
+      "Article": [
+        {
+          "word": "the"
+        },
+        {
+          "word": "a"
+        }
+      ],
+      "Animal": [
+        {
+          "words": "naughty monkey"
+        },
+        {
+          "word": "monkeys"
+        }
+      ],
+      "Preposition": [
+        {
+          "word": "in"
+        },
+        {
+          "word": "on"
+        },
+        {
+          "word": "of"
+        },
+        {
+          "word": "with"
+        }
+      ],
+      "Place": [
+        {
+          "word": "village"
+        }
+      ],
+      "Adverb": [
+        {
+          "word": "there"
+        }
+      ],
+      "Verb": [
+        {
+          "word": "were"
+        },
+        {
+          "word": "was"
+        }
+      ],
+      "Quantity": [
+        {
+          "word": "many"
+        },
+        {
+          "word": "all"
+        }
+      ],
+      "Action": [
+        {
+          "word": "sitting"
+        },
+        {
+          "word": "enjoyed"
+        },
+        {
+          "word": "troubling"
+        },
+        {
+          "word": "playing"
+        }
+      ],
+      "Pronoun": [
+        {
+          "word": "one"
+        },
+        {
+          "word": "them"
+        },
+        {
+          "word": "he"
+        },
+        {
+          "word": "their"
+        }
+      ],
+      "Size": [
+        {
+          "word": "big"
+        }
+      ],
+      "Adjective": [
+        {
+          "word": "other"
+        }
+      ],
+      "Human": [
+        {
+          "word": "people"
+        }
+      ],
+      "Conjunction": [
+        {
+          "word": "and"
+        }
+      ],
+      "Object": [
+        {
+          "word": "things"
+        }
+      ]
+    },
+    "level_2": {
+      "Nature": [
+        {
+          "words": "mango tree"
+        },
+        {
+          "words": "naughty monkey"
+        }
+      ],
+      "Animal": [
+        {
+          "words": "naughty monkey"
+        },
+        {
+          "word": "monkeys"
+        }
+      ]
+    }
+  },
+  "steps": [
+    "analyzedData",
+    "wordsSequence",
+    "eduProgram",
+    "finalData"
+  ]
+}

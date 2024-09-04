@@ -1,0 +1,80 @@
+[
+  {
+    "unit": [
+      {
+        "mainKnowledge": "хлопчик",
+        "knowledges": [
+          "хлопчик"
+        ],
+        "text": "хлопчик",
+        "group": "people"
+      },
+      {
+        "mainKnowledge": "кавун",
+        "knowledges": [
+          "кавун"
+        ],
+        "text": "кавун",
+        "group": "fruits"
+      }
+    ]
+  },
+  {
+    "unit": [
+      {
+        "mainKnowledge": "покласти",
+        "knowledges": [
+          "покласти",
+          "хлопчик"
+        ],
+        "text": "хлопчик поклав",
+        "group": "покласти-взяти"
+      },
+      {
+        "mainKnowledge": "взяти",
+        "knowledges": [
+          "взяти",
+          "хлопчик"
+        ],
+        "text": "хлопчик взяв",
+        "group": "покласти-взяти"
+      },
+      {
+        "mainKnowledge": "покласти",
+        "knowledges": [
+          "покласти",
+          "кавун"
+        ],
+        "text": "кавун поклали",
+        "group": "покласти-взяти"
+      },
+      {
+        "mainKnowledge": "взяти",
+        "knowledges": [
+          "взяти",
+          "кавун"
+        ],
+        "text": "кавун взяли",
+        "group": "покласти-взяти"
+      },
+      {
+        "mainKnowledge": "покласти",
+        "knowledges": [
+          "покласти",
+          "річ"
+        ],
+        "text": "річ поклали",
+        "group": "покласти-взяти"
+      },
+      {
+        "mainKnowledge": "взяти",
+        "knowledges": [
+          "взяти",
+          "річ"
+        ],
+        "text": "річ взяли",
+        "group": "покласти-взяти"
+      }
+    ]
+  }
+]
