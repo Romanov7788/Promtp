@@ -7,6 +7,7 @@ import { analyzeData } from "../src/mvp/agents/analyzeDataAgent.js";
 import { getWordSequence } from "../src/mvp/agents/getWodsSequenceAgent.js";
 import { getEduProgram } from "../src/mvp/agents/eduProgramAgent.js";
 import { analyzeNouns } from "../src/mvp/agents/analyzeNounsAgent.js";
+import { analyzeVerbs } from "./mvp/agents/analyzeVerbs.js";
 
 // Створюємо інтерфейс для введення даних користувачем
 const rl = readline.createInterface({
@@ -66,13 +67,15 @@ const runWorkflow = async () => {
 
     // Додаємо вузли (функції) до графа станів
     workflow.addNode("analyzeData", analyzeData);
+    workflow.addNode("analyzeVerbs", analyzeVerbs);
     workflow.addNode("getWordSequence", getWordSequence);
     workflow.addNode("getEduProgram", getEduProgram);
     workflow.addNode("analyzeNouns", analyzeNouns);
 
     // Визначаємо зв’язки між вузлами графа
     workflow.addEdge(START, "analyzeData");
-    workflow.addEdge("analyzeData", "getWordSequence");
+    workflow.addEdge("analyzeData", "analyzeVerbs");
+    workflow.addEdge("analyzeVerbs", "getWordSequence");
     workflow.addEdge("getWordSequence", "analyzeNouns");
     workflow.addEdge("analyzeNouns", "getEduProgram");
     workflow.addEdge("getEduProgram", END);
